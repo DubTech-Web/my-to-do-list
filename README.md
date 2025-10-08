@@ -100,7 +100,7 @@ It allows users to **add, delete, mark as done**, and **search tasks** — with 
 1. **Clone the repository**
 
 ```bash
-git clone
+git clone https://github.com/DubTech-Web/my-to-do-list.git
 cd todo-app
 ```
 
